@@ -26,3 +26,6 @@ Ao clicar no botão A, o LED verde é ligado ou desligado, e uma informação é
 Ao clicar no botão B, o LED azul é ligado ou desligado, e uma informação é exibida no display e no serial monitor.
 
 # Vídeo demonstrativo
+https://youtu.be/2CgC29dd6aY
+
+* No vídeo, o display aparece oscilando por conta do efeito estroboscópico na câmera
